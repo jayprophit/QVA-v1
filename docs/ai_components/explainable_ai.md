@@ -1,10 +1,25 @@
-# Adhyaya 9: Explainable AI (XAI)
+# मंगलाचरणम् (Invocation)
+
+_ॐ प्रकाशय ज्ञानम्।_
+
+May knowledge be illuminated and transparent for all.
 
 ---
 
-### **Mangala Shloka (Invocation)**
+## अनुक्रमणिका (Index)
 
-```text
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: व्याख्येय एआई अवधारणाएँ (Explainable AI Concepts)](#adhyaya-2)
+3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
+4. [अध्याय ४: अनुप्रयोग (Applications)](#adhyaya-4)
+5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
+6. [शांति मंत्र (Closing Invocation)](#shanti)
+
+
+_ॐ प्रकाशय ज्ञानम्।_
+
+May knowledge be illuminated and transparent for all.
+
 Om! May the light of explanation dispel the darkness of uncertainty and foster trust in intelligence.
 ```
 

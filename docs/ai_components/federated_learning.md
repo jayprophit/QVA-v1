@@ -1,10 +1,8 @@
-# Adhyaya 8: Federated Learning
+# मंगलाचरणम् (Invocation)
 
----
+ॐ समवायः शक्तिम्।
+May collective learning empower all participants.
 
-### **Mangala Shloka (Invocation)**
-
-```text
 Om! May the wisdom of many unite in harmony, preserving privacy and empowering all.
 ```
 

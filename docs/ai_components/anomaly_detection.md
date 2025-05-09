@@ -1,10 +1,9 @@
-# Adhyaya 5: Anomaly Detection
+# मंगलाचरणम् (Invocation)
 
----
+ॐ विचित्रं पश्येम।
 
-### **Mangala Shloka (Invocation)**
+May we perceive the subtle and the unusual with clarity.
 
-```text
 Om! May the wisdom of anomaly detection reveal the unseen and protect the system from hidden threats.
 ```
 

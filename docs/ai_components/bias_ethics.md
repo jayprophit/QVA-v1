@@ -1,10 +1,9 @@
-# Adhyaya 10: AI Bias & Ethics
+# मंगलाचरणम् (Invocation)
 
----
+ॐ धर्मं चर।
 
-### **Mangala Shloka (Invocation)**
+May righteousness and fairness guide all intelligence.
 
-```text
 Om! May this module uphold fairness, transparency, and ethical conduct in all realms of intelligence.
 ```
 

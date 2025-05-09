@@ -35,12 +35,12 @@
    * Uses classical ML algorithms like neural networks to enhance quantum algorithm execution
    * **Libraries**: TensorFlow or PyTorch for AI integration
 
-4. **Internet and Smart Device Connectivity**:
+### 4. **Internet and Smart Device Connectivity**:
 
    * Allows the virtual quantum computer to control smart devices via APIs
    * **Protocol**: MQTT, HTTP, WebSockets for IoT integration
 
-5. **User Interface**:
+### 5. **User Interface**:
 
    * Graphical user interface (GUI) or command-line interface (CLI) to interact with the VQC
    * Display quantum states, gate manipulations, and AI recommendations

@@ -1,10 +1,9 @@
-# Adhyaya 12: Real-Time Data Processing
+# मंगलाचरणम् (Invocation)
 
----
+_ॐ शीघ्रं कुरु।_
 
-### **Mangala Shloka (Invocation)**
+May all actions be timely and precise.
 
-```text
 Om! May this module bring swiftness and awareness, responding to every moment as it arises.
 ```
 

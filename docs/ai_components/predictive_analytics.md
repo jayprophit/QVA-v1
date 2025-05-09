@@ -1,10 +1,9 @@
-# Adhyaya 4: Predictive Analytics
+# मंगलाचरणम् (Invocation)
 
----
+ॐ भविष्यं पश्येम।
 
-### **Mangala Shloka (Invocation)**
+May we perceive and shape the future with wisdom.
 
-```text
 Om! May the foresight of analytics illuminate the path ahead and guide wise decisions.
 ```
 

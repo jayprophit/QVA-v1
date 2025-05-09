@@ -1,10 +1,8 @@
-# Adhyaya 6: Speech Recognition
+# मंगलाचरणम् (Invocation)
 
----
+ॐ वाणीं श्रुणु।
+May all voices be heard and understood.
 
-### **Mangala Shloka (Invocation)**
-
-```text
 Om! May the voice of all beings be heard and understood through this module.
 ```
 

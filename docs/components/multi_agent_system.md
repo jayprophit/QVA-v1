@@ -1,9 +1,43 @@
-# Multi-Agent AI System
+# मंगलाचरणम् (Invocation)
+
+_ॐ सह नाववतु।_
+
+May we work together in harmony and wisdom.
+
+---
+
+## अनुक्रमणिका (Index)
+
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: एजेंट वास्तुकला (Agent Architecture)](#adhyaya-2)
+3. [अध्याय ३: समन्वय एवं संचार (Coordination & Communication)](#adhyaya-3)
+4. [अध्याय ४: कार्यान्वयन (Implementation)](#adhyaya-4)
+5. [अध्याय ५: अनुप्रयोग (Applications)](#adhyaya-5)
+6. [अध्याय ६: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-6)
+7. [शांति मंत्र (Closing Invocation)](#shanti)
+
+---
+
+## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+
+**Shloka:**
+Multi-agent systems enable distributed intelligence and collaborative problem solving.
+
+**Commentary:**
+This section introduces the concept and significance of multi-agent systems in modern AI.
 
 ## Overview
 The Multi-Agent AI System forms a distributed intelligence layer within the QVA platform, comprising specialized autonomous agents that collaborate to accomplish complex tasks. This architecture allows for parallelized processing, domain-specific expertise, and resilient system behavior through collective intelligence approaches.
 
-## System Architecture
+---
+
+## अध्याय २: एजेंट वास्तुकला (Agent Architecture) <a name="adhyaya-2"></a>
+
+**Shloka:**
+Agent architecture is the backbone of multi-agent systems.
+
+**Commentary:**
+This section delves into the design and organization of agents within the system.
 
 ### Agent Taxonomy
 - **Specialist Agents**: Focus on specific domains or capabilities

@@ -1,8 +1,43 @@
-# QVA Internal API Endpoints
+# QVA# मंगलाचरणम् (Invocation)
+
+_ॐ अन्तर्यामि स्वाहा।_
+
+May the inner workings be harmonious and efficient.
+
+---
+
+## अनुक्रमणिका (Index)
+
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: एपीआई अवधारणाएँ (Endpoint Concepts)](#adhyaya-2)
+3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
+4. [अध्याय ४: उपयोग के मामले (Use Cases)](#adhyaya-4)
+5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
+6. [शांति मंत्र (Closing Invocation)](#shanti)
+
+---
+
+## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+
+**Shloka:**
+Internal endpoints orchestrate the flow of information within the system.
+
+**Commentary:**
+This section introduces the importance and design of internal endpoints in the QVA architecture.
 
 ## Overview
 
 This document details the internal API endpoints used for communication between QVA system components. These endpoints are not intended for external consumption and are secured behind the system's zero-trust architecture.
+
+---
+
+## अध्याय २: एपीआई अवधारणाएँ (Endpoint Concepts) <a name="adhyaya-2"></a>
+
+**Shloka:**
+API endpoints are the building blocks of system communication.
+
+**Commentary:**
+This section explains the concepts and design principles behind the internal API endpoints.
 
 ## Authentication & Authorization
 

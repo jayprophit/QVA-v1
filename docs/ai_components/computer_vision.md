@@ -1,10 +1,8 @@
-# Adhyaya 2: Computer Vision
+# मंगलाचरणम् (Invocation)
 
----
+ॐ दृष्टिः सर्वं पश्येत्।
+May our sight perceive all forms and patterns.
 
-### **Mangala Shloka (Invocation)**
-
-```text
 Om! May the vision of this module reveal the world in all its detail and guide intelligent perception.
 ```
 

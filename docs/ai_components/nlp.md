@@ -1,10 +1,8 @@
-# Adhyaya 1: Natural Language Processing (NLP)
+# मंगलाचरणम् (Invocation)
 
----
+ॐ वाक् देव्या नमः।
+Salutations to the goddess of speech; may language unite all minds.
 
-### **Mangala Shloka (Invocation)**
-
-```text
 Om! May the power of language unite minds and unveil the wisdom within words.
 ```
 

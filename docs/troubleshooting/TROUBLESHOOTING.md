@@ -1,9 +1,35 @@
-# QVA System Troubleshooting Guide
+# QVA System# मंगलाचरणम् (Invocation)
+
+_ॐ समाधानं कुरु।_
+
+May all obstacles be resolved with wisdom and clarity.
+
+---
+
+## अनुक्रमणिका (Index)
+
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: सामान्य समस्याएँ (Common Issues)](#adhyaya-2)
+3. [अध्याय ३: निदान (Diagnostics)](#adhyaya-3)
+4. [अध्याय ४: समाधान (Solutions)](#adhyaya-4)
+5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
+6. [शांति मंत्र (Closing Invocation)](#shanti)
+
+---
+
+## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+
+**Shloka:**
+Troubleshooting transforms obstacles into opportunities for improvement.
+
+**Commentary:**
+This section introduces the philosophy and scope of troubleshooting within QVA.
 
 This document provides solutions to common issues encountered when working with the Quantum Virtual Assistant (QVA) system.
 
-## Table of Contents
+## अध्याय २: सामान्य समस्याएँ (Common Issues) <a name="adhyaya-2"></a>
 
+### सिस्टम आवश्यकताएँ पूरी नहीं होना (System Requirements Not Met)
 1. [Installation Issues](#installation-issues)
 2. [Performance Problems](#performance-problems)
 3. [Connectivity Issues](#connectivity-issues)

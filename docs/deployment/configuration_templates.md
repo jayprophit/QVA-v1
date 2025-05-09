@@ -1,4 +1,35 @@
-# QVA Configuration Templates
+# मंगलाचरणम् (Invocation)
+
+_ॐ स्थापय स्थापय।_
+
+May all configurations be established with precision and harmony.
+
+---
+
+## अनुक्रमणिका (Index)
+
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: कोर सिस्टम विन्यास (Core System Configuration)](#adhyaya-2)
+3. [अध्याय ३: परिनियोजन टेम्पलेट्स (Deployment Templates)](#adhyaya-3)
+4. [अध्याय ४: घटक विन्यास (Component Configuration)](#adhyaya-4)
+5. [अध्याय ५: डॉकर कंपोज़ (Docker Compose)](#adhyaya-5)
+6. [अध्याय ६: पर्यावरण चर (Environment Variables)](#adhyaya-6)
+7. [अध्याय ७: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-7)
+8. [शांति मंत्र (Closing Invocation)](#shanti)
+
+---
+
+## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+
+**Shloka:**
+Configuration templates ensure consistency and reliability across deployments.
+
+**Commentary:**
+This section introduces the purpose and significance of using configuration templates in QVA.
+
+---
+
+
 
 ## Overview
 

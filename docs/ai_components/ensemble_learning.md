@@ -1,10 +1,9 @@
-# Adhyaya 7: Ensemble Learning
+# Adhyaya 7: मंगलाचरणम् (Invocation)
 
----
+_ॐ संयुक्ता शक्तयः फलन्ति।_
 
-### **Mangala Shloka (Invocation)**
+May united strengths yield greater results.
 
-```text
 Om! May the union of many minds bring strength and certainty to every prediction.
 ```
 

@@ -1,10 +1,9 @@
-# Adhyaya 3: Reinforcement Learning (RL)
+# मंगलाचरणम् (Invocation)
 
----
+ॐ कर्तव्यं कुरु।
 
-### **Mangala Shloka (Invocation)**
+May right action bring wisdom and reward.
 
-```text
 Om! May the spirit of learning through action lead to mastery and adaptation.
 ```
 

@@ -1,10 +1,8 @@
-# Adhyaya 11: Data Augmentation
+# मंगलाचरणम् (Invocation)
 
----
+ॐ विविधता संवर्धयामि।
+May diversity be enriched in all data and forms.
 
-### **Mangala Shloka (Invocation)**
-
-```text
 Om! May this module multiply knowledge and strengthen the foundation of learning.
 ```
 

@@ -1,10 +1,9 @@
-# Adhyaya 13: Multi-Modal Integration
+# मंगलाचरणम् (Invocation)
 
----
+_ॐ सर्वेन्द्रियाणि संयुज्य।_
 
-### **Mangala Shloka (Invocation)**
+May all senses unite for perfect understanding.
 
-```text
 Om! May the union of senses bring deeper understanding and harmony to all intelligence.
 ```
 
