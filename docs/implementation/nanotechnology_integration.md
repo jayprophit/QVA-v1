@@ -1,4 +1,23 @@
-# Nanotechnology & Programmable Materials Integration
+# मंगलाचरणम् (Invocation)
+
+_ॐ अणोरणीयान् महतो महीयान्।_
+
+May we perceive the smallest and the greatest; may nanotechnology empower our creations.
+
+---
+
+## अनुक्रमणिका (Index)
+
+1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
+2. [अध्याय २: प्रमुख नैनोमटेरियल्स एवं संश्लेषण (Key Nanomaterials & Synthesis)](#adhyaya-2)
+3. [अध्याय ३: प्रोग्रामेबल मटेरियल्स (Programmable Materials)](#adhyaya-3)
+4. [अध्याय ४: संवेदन एवं अभिक्रिया (Sensing & Actuation)](#adhyaya-4)
+5. [अध्याय ५: क्यूवीए/रोबोटिक्स के साथ एकीकरण (Modular Integration with QVA/Robotics)](#adhyaya-5)
+6. [अध्याय ६: अनुप्रयोग (Applications)](#adhyaya-6)
+7. [अध्याय ७: भविष्य की दिशा (Future Considerations)](#adhyaya-7)
+8. [अध्याय ८: संदर्भ (References & Cross-links)](#adhyaya-8)
+9. [शांति मंत्र (Closing Invocation)](#shanti)
+
 
 > For system-level context, see [Key Innovations](../overview_and_innovations.md#key-innovations) and [Robotic Systems Integration](./robotic_systems_integration.md#3a-nanotechnology--programmable-materials-integration).
 

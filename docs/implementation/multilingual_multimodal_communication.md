@@ -203,15 +203,17 @@ def analyze_sentiment(text):
     return sentiment[0]
 ```
 
-## Integration Architecture
+---
 
-The complete multilingual and multi-modal communication system integrates these components through:
+## अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results) <a name="adhyaya-5"></a>
 
-1. **Input Processing Layer** - Determines the type of input (text, image, audio) and routes to appropriate processing modules
-2. **Analysis Layer** - Extracts meaning, intent, and context from the processed input
-3. **Response Generation Layer** - Creates appropriate responses based on the analyzed input
-4. **Output Synthesis Layer** - Converts responses to the appropriate format (text, speech, visual)
+**Shloka:**
+A truly multilingual, multimodal system enhances accessibility and inclusivity.
 
+**Commentary:**
+- Global reach
+- Richer user experiences
+- Adaptive communication
 ## Ethical Considerations
 
 All capabilities, especially those related to analysis, deciphering, and "hacking," are implemented with strong ethical safeguards:
