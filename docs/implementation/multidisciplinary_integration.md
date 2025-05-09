@@ -62,6 +62,48 @@ class EthicalAI:
 * **Ontology and Epistemology**: Enhances QVA's understanding of the nature of existence and knowledge
 * **Philosophy of mind**: Contributes to AI consciousness research (simulating thoughts and experiences)
 
+---
+
+### AI Ethics & Bias
+
+Ethical AI ensures QVA's decisions are fair, transparent, and accountable. Bias detection and mitigation are critical for responsible deployment.
+
+```python
+from aif360.sklearn.metrics import ClassificationMetric
+metric = ClassificationMetric(data)
+print(metric.statistical_parity_difference())
+```
+
+- See [ai_components/bias_ethics.md](../ai_components/bias_ethics.md) for more tools and examples.
+
+---
+
+### Explainable AI (XAI)
+
+Explainable AI provides transparency for model predictions, supporting audits and user trust.
+
+```python
+import shap
+explainer = shap.Explainer(model, X_train)
+shap_values = explainer(X_test)
+```
+
+- See [ai_components/explainable_ai.md](../ai_components/explainable_ai.md) for more.
+
+---
+
+### Multi-Modal AI
+
+Combining text, images, audio, and sensor data enables richer, more robust inference and interaction.
+
+```python
+# Example: NLP + Vision
+text_result = nlp('Describe this image')
+vision_result = model.detect_objects('image.jpg')
+```
+
+- See [ai_components/multi_modal.md](../ai_components/multi_modal.md) for more use cases and code.
+
 ## 3. Sociology: Social Dynamics and Group Behavior
 
 Sociology helps QVA understand and model human interaction within societies, focusing on cultural, social, and institutional dynamics.

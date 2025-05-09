@@ -15,6 +15,18 @@ This document outlines the comprehensive system design that integrates MCP (Modu
 | **Agent Layer**           | - Specialized AI Agents (TradingBot, CRM, IoT, etc.)<br>- Swarm Intelligence  | Task execution, IoT automation, and collaborative problem-solving.          |
 | **Data Layer**            | - Federated Knowledge Graphs<br>- Blockchain-Attested Databases               | Secures structured/unstructured data for RAG, KAG, and LLM fine-tuning.      |
 
+---
+
+### Modular AI/ML Architecture
+
+Quantum Nexus employs a modular approach to AI/ML, with each major capability implemented as a distinct, composable component:
+
+- **NLP, Computer Vision, RL, Predictive Analytics, Anomaly Detection, Speech, Ensemble, Federated Learning, XAI, Bias/Ethics, Data Augmentation, Real-Time Processing, Multi-Modal Integration**
+- Each module is documented in [`docs/ai_components/`](../ai_components/README.md) and can be independently updated or extended.
+- Integration occurs at the Cognitive and Agent layers, with modules accessed via standard APIs and orchestrated by MCP.
+
+> For detailed documentation and code, see [`docs/ai_components/`](../ai_components/README.md).
+
 ## Component Integration & Workflows
 
 ### Cognitive Layer
@@ -194,6 +206,13 @@ This document outlines the comprehensive system design that integrates MCP (Modu
 
 ### Ethics
 - WBE consciousness rights, quantum-powered surveillance risks.
+
+## Modular AI/ML Architecture
+
+Quantum Nexus adopts a modular approach to AI/ML integration. Each core capability—NLP, computer vision, reinforcement learning, predictive analytics, anomaly detection, speech, ensemble, federated, XAI, bias/ethics, data augmentation, real-time processing, and multi-modal fusion—is implemented as a distinct, composable component. These modules interface with the MCP and cognitive/agent layers, enabling flexible, scalable, and explainable intelligence across the system.
+
+- See [`../ai_components/README.md`](../ai_components/README.md) for detailed docs and code for each module.
+- Modular design allows for rapid upgrades, independent testing, and targeted deployment.
 
 ## Future Directions
 
