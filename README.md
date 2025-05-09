@@ -1,5 +1,20 @@
 # QVA-v1
 
+## Sanskrit-style modular format meanings
+1. **Invocation (Mangala Shloka)**: Introducing the purpose of the program.
+2. **Chapterization (Adhyayas)**: Dividing the program into clear sections or modules.
+3. **Shlokas (Verses)**: Each block of code will be treated as a "verse," written with commentary to explain its purpose and functionality.
+4. **Prasthana (Invocation to Higher Knowledge)**: Summarizing the program's goal and scope.
+5. **Phala Shruti (Results or Benefits)**: Mentioning what the program achieves.
+
+---
+
+### **Mangala Shloka (Invocation)**
+
+```text
+Om! May this Quantum Virtual Assistant (QVA) illuminate the path of knowledge, uniting science, technology, and wisdom for the benefit of all beings.
+```
+
 # Quantum Virtual Assistant (QVA) System
 
 A comprehensive virtual machine system with holographic assistant capabilities, neural reconstruction, and integrated advanced AI processing layers.
@@ -23,7 +38,15 @@ A comprehensive virtual machine system with holographic assistant capabilities, 
   - `/architecture`: System architecture and design
   - `/components`: Individual system components
   - `/implementation`: Implementation details and strategies
+  - `/ai_components`: Modular AI/ML documentation
+  - `/api`: API documentation (external/internal endpoints)
+  - `/concepts`: Core and advanced system concepts
+  - `/deployment`: Deployment guides and templates
+  - `/diagrams`: System, data flow, and component diagrams
   - `/interfaces`: User and system interfaces
+  - `/requirements`: System and hardware requirements
+  - `/testing`: Testing strategies and test cases
+  - `/troubleshooting`: Troubleshooting guides
   - `/use_cases`: Industry-specific applications
 - `/src`: Source code for all components
 
@@ -80,3 +103,26 @@ This system is designed to work across multiple platforms and devices through it
 ## Contributing
 
 Please see the [FEEDBACK.md](FEEDBACK.md) file for information on how to contribute to this project.
+
+---
+
+### **Phala Shruti (Results and Benefits)**
+
+- QVA integrates advanced AI, quantum computing, and holistic design for universal adaptability.
+- Modular, Sanskrit-inspired structure ensures clarity, extensibility, and ease of navigation.
+- Designed to evolve, adapt, and serve as a beacon of knowledge for future generations.
+
+---
+
+### **Prasthana (Closing Invocation)**
+
+```text
+May this system continue to grow, adapt, and inspire all seekers of truth and innovation. Om Shanti!
+```
+
+---
+
+**For detailed Sanskrit-style documentation and modular breakdown, see:**
+- [System Overview (Sanskrit-Style)](docs/architecture/system_overview.md)
+- [Component Modules](docs/components/)
+- [AI Components](docs/ai_components/)

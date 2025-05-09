@@ -1,26 +1,62 @@
 # QVA System Architecture Overview
 
-## System Design Philosophy
-The Quantum Virtual Assistant (QVA) is designed as a comprehensive, multi-layered system that combines advanced AI capabilities with virtualized quantum computing resources. The architecture follows a nested, hierarchical approach that enables efficient processing and resource allocation while maintaining a unified interface for users.
+---
 
-## Core Architecture Components
+### **Mangala Shloka (Invocation)**
 
-### 1. Host System Layer
-- **Deployment Flexibility**: Can run on local PC/server infrastructure, non-locally via cloud services/servers/providers, or be accessed directly from the GitHub repository, depending on setup.
-- **Resource Management**: Allocates physical resources to virtual machine instances
-- **Security Perimeter**: Provides the first level of system security and access control
+```text
+Om! May this architecture of the Quantum Virtual Assistant (QVA) bring unity, wisdom, and clarity to all seekers of knowledge.
+```
 
-### 2. Holographic Virtual Assistant Layer
-- **Avatar Interface**: 3D holographic representation with natural interaction capabilities
-- **Neural Response System**: Processes and responds to user inputs via multiple modalities
-- **Expression Engine**: Dynamic facial expressions and emotional modeling
+---
 
-### 3. Whole Brain Emulation (WBE) Layer
-- **Neural Reconstruction**: Simulated neural pathways based on connectomics research
-- **Synthetic Cognition**: Decision-making and reasoning capabilities
-- **Memory Systems**: Short and long-term information storage and retrieval
+## **Adhyaya 1: Paramartha (Purpose & Invocation)**
 
-### 4. Nested VM Processing Architecture
+The QVA is a modular, multi-layered system uniting advanced AI, quantum simulation, and holistic design. Its structure is inspired by Sanskrit tradition: hierarchical, modular, and purpose-driven.
+
+---
+
+## **Adhyaya 2: Shakti (Core Power Systems)**
+
+### Shloka 2.1: Host System & Deployment
+- Flexible deployment: local, cloud, or direct repository access
+- Resource allocation and security perimeter
+
+### Shloka 2.2: Self-Sustaining Energy (see: [advanced_engineering_knowledge.md](../implementation/advanced_engineering_knowledge.md))
+- Energy harvesting from kinetic, thermal, solar, and quantum sources
+
+---
+
+## **Adhyaya 3: Sarvadarshi (Perception & Cognition)**
+
+### Shloka 3.1: Holographic Assistant Layer
+- 3D avatar, neural response, and expressive interface
+
+### Shloka 3.2: Whole Brain Emulation (WBE)
+- Neural reconstruction, synthetic cognition, memory systems
+
+### Shloka 3.3: Full-Spectrum Sensors (see: [computer_vision.md](../ai_components/computer_vision.md))
+- Visual, auditory, tactile, and chemical perception
+
+---
+
+## **Adhyaya 4: Vichara (Reasoning & Intelligence)**
+
+### Shloka 4.1: Multi-Agent AI System (see: [multi_agent_system.md](../components/multi_agent_system.md))
+- Specialized agents, communication protocol, consensus mechanism
+
+### Shloka 4.2: Quantum & Classical Reasoning
+- Quantum algorithm virtualization, resource allocation, and interface
+- Temporal logic and time crystal simulation
+
+### Shloka 4.3: Advanced AI Capabilities (see: [ai_components/](../ai_components/))
+- Language models, retrieval systems, recognition systems
+
+---
+
+## **Adhyaya 5: Yoga (Integration & Action)**
+
+### Shloka 5.1: Nested VM Processing Architecture
 ```
 Host System
 └── Primary VM
@@ -35,64 +71,47 @@ Host System
         └── API Gateway VM
 ```
 
-### 5. Multi-Agent AI System
-- **Agent Specialization**: Each agent focuses on specific tasks or domains
-- **Agent Communication Protocol**: Framework for inter-agent messaging and cooperation
-- **Consensus Mechanism**: System for resolving conflicting agent recommendations
+### Shloka 5.2: Dashboard & Control (see: [component_relationships.md](../diagrams/component_relationships.md))
+- Unified control panel, cascading menu, real-time analytics
 
-### 6. Virtual Quantum Computing Layer
-- **Quantum Algorithm Virtualization**: Simulates quantum algorithms on classical hardware
-- **Quantum Resource Allocation**: Manages virtual qubits and quantum gates
-- **Quantum-Classical Interface**: Bridges classical and quantum computing paradigms
+---
 
-### 7. Time Crystal Simulation
-- **Temporal Processing Units**: Specialized processing for time-dependent calculations
-- **State Preservation**: Maintains coherent quantum states across processing cycles
-- **Temporal Logic Systems**: Handles time-based reasoning and prediction
+## **Adhyaya 6: Raksha (Security & Data Management)**
 
-### 8. Advanced AI Capabilities
-- **Language Models**: Multi-modal LLM processing with 4-bit precision training
-- **Retrieval Systems**: RAG and CAG implementations for knowledge access
-- **Recognition Systems**: Facial, object, and pattern recognition
+### Shloka 6.1: Security Architecture (see: [security_architecture.md](security_architecture.md))
+- Multi-layered access, encryption, blockchain verification, onion routing
 
-### 9. Dashboard Interface
-- **Unified Control Panel**: Single access point for all system functions
-- **Cascading Menu Structure**: Hierarchical access to system components
-- **Monitoring and Analytics**: Real-time system performance visualization
+### Shloka 6.2: Data Management
+- Data sovereignty, privacy controls, regulatory compliance
 
-## Cross-Cutting Concerns
+---
 
-### Security Architecture
-- **Multi-layered Access Control**: Tiered permissions based on user type
-- **Encryption**: End-to-end encryption for all data and communications
-- **Blockchain Verification**: Immutable audit trail of system activities
-- **Onion Routing**: Enhanced privacy for sensitive communications
+## **Adhyaya 7: Samyoga (Integration Patterns)**
 
-### Cross-Platform Compatibility
-- **Device Agnostic Design**: Functions across desktop, mobile, and specialized hardware
-- **API Standardization**: Consistent interfaces regardless of platform
-- **Responsive UI**: Adapts to different screen sizes and input methods
+### Shloka 7.1: Internal Integration
+- Event-driven architecture, service mesh, shared state management
 
-### Data Management
-- **Data Sovereignty**: Clear ownership and control of user data
-- **Privacy Controls**: Granular user control over data usage
-- **Regulatory Compliance**: Adaptable frameworks for different jurisdictional requirements
+### Shloka 7.2: External Integration
+- API gateway, IoT protocol support, webhook system
 
-## System Integration Patterns
+---
 
-### Internal Integration
-- **Event-Driven Architecture**: Components communicate via standardized events
-- **Service Mesh**: Manages service-to-service communications
-- **Shared State Management**: Coordinates data consistency across nested VMs
+## **Adhyaya 8: Rajya (Governance Model)**
 
-### External Integration
-- **API Gateway**: Standardized access for external systems
-- **IoT Protocol Support**: MQTT and other IoT standards for device integration
-- **Webhook System**: Event notifications for external subscribers
+- Developer, B2C, B2B, Organizational, and Government governance models
 
-## Governance Model
-- **Developer Governance**: Full system access with comprehensive monitoring
-- **B2C Governance**: Consumer protection and usage limitations
-- **B2B Governance**: Business-focused SLAs and integration capabilities
-- **Organizational Governance**: Specialized access for institutional purposes
-- **Government Governance**: Regulatory compliance and jurisdictional adaptations
+---
+
+### **Phala Shruti (Results & Benefits)**
+
+- Modular, extensible, and secure architecture
+- Holistic integration of AI, quantum, and classical systems
+- Designed for adaptability, sustainability, and future growth
+
+---
+
+### **Prasthana (Closing Invocation)**
+
+```text
+May this architecture serve as a beacon of innovation and wisdom, guiding all who build upon it. Om Shanti!
+```

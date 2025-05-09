@@ -1,16 +1,39 @@
-# Speech Recognition
+# Adhyaya 6: Speech Recognition
 
+---
+
+### **Mangala Shloka (Invocation)**
+
+```text
+Om! May the voice of all beings be heard and understood through this module.
+```
+
+---
+
+## **Shloka 6.1: Principle**
 Speech-to-text enables voice interfaces and command recognition.
 
-## Key Technologies
+## **Shloka 6.2: Key Technologies**
 - SpeechRecognition library
 
-## Example
+## **Shloka 6.3: Example**
 ```python
 import speech_recognition as sr
 r = sr.Recognizer()
 # See architecture doc for integration with voice UI
 ```
 
-## Integration Notes
+## **Shloka 6.4: Integration Commentary**
 - Used for accessibility, voice assistants, and robotics.
+
+---
+
+### **Phala Shruti (Result)**
+- Facilitates natural, accessible, and intuitive interaction with technology.
+
+---
+
+### **Prasthana (Closing Invocation)**
+
+```text
+May this speech module give voice to every thought and command. Om Shanti!

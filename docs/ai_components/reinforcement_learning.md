@@ -1,12 +1,23 @@
-# Reinforcement Learning (RL)
+# Adhyaya 3: Reinforcement Learning (RL)
 
+---
+
+### **Mangala Shloka (Invocation)**
+
+```text
+Om! May the spirit of learning through action lead to mastery and adaptation.
+```
+
+---
+
+## **Shloka 3.1: Principle**
 RL agents enable adaptive optimization and control in Quantum Nexus.
 
-## Key Technologies
+## **Shloka 3.2: Key Technologies**
 - OpenAI Gym
 - TensorFlow / PyTorch
 
-## Example: Basic RL Loop
+## **Shloka 3.3: Example — Basic RL Loop**
 ```python
 import gym
 env = gym.make('CartPole-v1')
@@ -17,5 +28,17 @@ for _ in range(100):
     if done: break
 ```
 
-## Integration Notes
+## **Shloka 3.4: Integration Commentary**
 - Used for quantum circuit optimization, robotics, and dynamic resource management.
+
+---
+
+### **Phala Shruti (Result)**
+- Enables continuous improvement and self-optimization in dynamic environments.
+
+---
+
+### **Prasthana (Closing Invocation)**
+
+```text
+May this RL module empower the system to learn, adapt, and excel. Om Shanti!

@@ -365,18 +365,25 @@ def train_design_prediction_model(model, X, y, epochs=100, batch_size=32):
     """
     # Train the model
     model.fit(X, y, epochs=epochs, batch_size=batch_size, verbose=1)
-    return model
 ```
 
-## IoT Integration
+---
 
-QVA can interface with smart devices and leverage internet connectivity for real-time monitoring and control of manufacturing processes.
+# अध्याय ४: निर्माण एकीकरण (Manufacturing Integration) <a name="adhyaya-4"></a>
+
+**Shloka:**
+Seamless integration with manufacturing accelerates the path from design to production.
+
+**Commentary:**
+CAM (Computer-Aided Manufacturing), CNC, 3D printing, and rapid prototyping link digital designs to physical artifacts.
 
 ```python
 import paho.mqtt.client as mqtt
 
 class SmartManufacturingController:
-    """
+"""
+Controller for communicating with smart manufacturing devices via MQTT
+"""
     Controller for communicating with smart manufacturing devices via MQTT
     """
     
