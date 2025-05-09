@@ -6,7 +6,7 @@ The Quantum Virtual Assistant (QVA) is designed as a comprehensive, multi-layere
 ## Core Architecture Components
 
 ### 1. Host System Layer
-- **Local Deployment**: Runs on local PC/server infrastructure
+- **Deployment Flexibility**: Can run on local PC/server infrastructure, non-locally via cloud services/servers/providers, or be accessed directly from the GitHub repository, depending on setup.
 - **Resource Management**: Allocates physical resources to virtual machine instances
 - **Security Perimeter**: Provides the first level of system security and access control
 

@@ -62,7 +62,7 @@ This system is designed to work across multiple platforms and devices through it
 
 ## Deployment
 
-- Runs from local PC/server
+- Can run locally (PC/server), non-locally (cloud service/server/provider), or be accessed directly from the GitHub repository, depending on setup.
 - Repository hosted on GitHub
 - Production environment with tiered access
 - See [Industry-Specific Deployment Examples](docs/deployment/industry_deployments.md)
