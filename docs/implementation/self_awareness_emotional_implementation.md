@@ -259,7 +259,7 @@ class EmotionalReinforcementLearning:
         print(f"Learning from emotional experience with reward: {reward}")
 ```
 
-## 11. Integration with QVA Core Systems
+## 10. Integration with QVA Core Systems
 
 The emotional intelligence and self-awareness capabilities integrate with the QVA's core systems, including:
 

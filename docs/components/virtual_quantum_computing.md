@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may quantum computation be accessible to all._
+
+May quantum computation be accessible to all.
+
+---
 
 _ॐ पूर्णमदः पूर्णमिदम्।_
 

@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all bias be removed and ethics prevail._
+
+May all bias be removed and ethics prevail.
+
+---
 
 ॐ धर्मं चर।
 

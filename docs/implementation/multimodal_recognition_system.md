@@ -1,4 +1,10 @@
-## मंगलाचरणम् (Invocation)
+## Invocation (Mangala Shloka)
+
+_Om, may all senses be awakened for recognition._
+
+May all senses be awakened for recognition.
+
+---
 
 _ॐ सर्वे भवन्तु सुखिनः।_
 

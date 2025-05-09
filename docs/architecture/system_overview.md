@@ -2,7 +2,7 @@
 
 ---
 
-### **Mangala Shloka (Invocation)**
+### **Invocation (Mangala Shloka)**
 
 ```text
 Om! May this architecture of the Quantum Virtual Assistant (QVA) bring unity, wisdom, and clarity to all seekers of knowledge.

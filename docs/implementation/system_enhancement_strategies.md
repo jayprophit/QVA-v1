@@ -228,8 +228,16 @@ By implementing these enhancement strategies, the QVA system can achieve greater
 
 ---
 
-शांति मंत्र (Closing Invocation) <a name="shanti"></a>
+## Closing Invocation (Shanti Mantra) <a name="shanti"></a>
 
-_ॐ शान्तिः शान्तिः शान्तिः॥_
+_Om, peace, peace, peace._
 
 May every improvement bring peace, progress, and prosperity.
+
+---
+
+_Om, may all enhancements uplift the system._
+
+May all enhancements uplift the system.
+
+--- 

@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all anomalies be revealed and understood._
+
+May all anomalies be revealed and understood.
+
+---
 
 ॐ विचित्रं पश्येम।
 

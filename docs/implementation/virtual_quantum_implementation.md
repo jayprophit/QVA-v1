@@ -181,7 +181,13 @@ qsvm.run(backend)
 
 Use hybrid quantum-classical algorithms to optimize circuit design. Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA) are examples of such algorithms.
 
-## QVA Integration Framework
+## Invocation (Mangala Shloka)
+
+_Om, may virtual quantum realms be realized for all._
+
+May virtual quantum realms be realized for all.
+
+## Framework
 
 To integrate this virtual quantum computing implementation with the broader QVA system:
 

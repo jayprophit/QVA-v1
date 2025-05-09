@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all recognition be precise and insightful._
+
+May all recognition be precise and insightful.
+
+---
 
 _ॐ सर्वे भवन्तु सुखिनः, सर्वे सन्तु निरामयाः।_
 

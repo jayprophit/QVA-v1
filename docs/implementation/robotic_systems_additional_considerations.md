@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all robotic systems be wise and safe._
+
+May all robotic systems be wise and safe.
+
+---
 
 _ॐ श्री गणेशाय नमः। सर्वे भवन्तु सुखिनः, सर्वे सन्तु निरामयाः।_
 

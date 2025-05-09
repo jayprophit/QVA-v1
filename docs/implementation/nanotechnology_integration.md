@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may the smallest become the greatest._
+
+May the smallest become the greatest.
+
+---
 
 _ॐ अणोरणीयान् महतो महीयान्।_
 

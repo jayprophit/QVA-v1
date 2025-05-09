@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may the whole mind be understood and emulated._
+
+May the whole mind be understood and emulated.
+
+---
 
 _ॐ चित्तं सर्वं विज्ञानम्।_
 

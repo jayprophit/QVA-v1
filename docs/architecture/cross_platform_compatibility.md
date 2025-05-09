@@ -142,7 +142,13 @@ The QVA system is designed with a device-agnostic architecture that enables seam
 ### Local Deployment
 - **Installation Package**: Platform-specific installers and packages
 - **Configuration Wizard**: Environment-adaptive setup process
-- **Resource Allocation**: Dynamic adjustment to available hardware
+- **Invocation (Mangala Shloka)**
+
+_Om, may all platforms unite in harmony._
+
+May all platforms unite in harmony.
+
+- **Dynamic Adjustment**: Dynamic adjustment to available hardware
 - **Update Mechanism**: Platform-appropriate software update process
 
 ### Cloud Deployment

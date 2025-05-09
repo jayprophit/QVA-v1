@@ -4,7 +4,13 @@
 
 ---
 
-## मंगलाचरणम् (Invocation)
+## Invocation (Mangala Shloka)
+
+_Om, may all tasks proceed in parallel with harmony._
+
+May all tasks proceed in parallel with harmony.
+
+---
 
 _शुभं करोति कल्याणं आरोग्यं धनसंपदा।
 शत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तुते॥_

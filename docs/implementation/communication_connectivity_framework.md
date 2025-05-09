@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all connections be clear and strong._
+
+May all connections be clear and strong.
+
+---
 
 _ॐ आप्यायन्तु ममाङ्गानि वाक् प्राणश्चक्षुः श्रोत्रम्।_
 

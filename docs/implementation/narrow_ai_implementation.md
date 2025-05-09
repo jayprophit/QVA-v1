@@ -4,7 +4,13 @@
 
 ---
 
-## मंगलाचरणम् (Invocation)
+## Invocation (Mangala Shloka)
+
+_Om, may focused intelligence serve all purposes._
+
+May focused intelligence serve all purposes.
+
+---
 
 _श्री गणेशाय नमः। बुद्धिर्बलं यशो धर्मं निर्भयत्वमरोगता।
 अजाड्यं वाक्पटुत्वं च हनुमत्स्मरणाद्भवेत्॥_

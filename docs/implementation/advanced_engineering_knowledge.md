@@ -807,7 +807,13 @@ Continuous expansion and improvement enable the system to stay up-to-date with t
 
 ---
 
-शांति मंत्र (Closing Invocation) <a name="shanti"></a>
+Invocation (Mangala Shloka)
+
+_Om, may engineering wisdom flourish in all endeavors._
+
+May engineering wisdom flourish in all endeavors.
+
+--- <a name="shanti"></a>
 * Enhanced natural language processing and multi-modal capabilities
 * User interaction personalization and contextual awareness
 * Ethical decision-making frameworks and governance

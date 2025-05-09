@@ -10,6 +10,10 @@ The QVA system implements a comprehensive, multi-layered security architecture t
 - **Biometric Authentication System**: Facial recognition paired with blockchain-secured biometric hashes for unbreachable identity verification
 - **Cognitive Security Monitoring**: WBE components designed to detect anomalous patterns through intuition-based security analysis
 
+### Invocation (Mangala Shloka)
+_Om, may security be ever-vigilant._
+May security be ever-vigilant.
+
 ### Secure Communication Layer  
 - **Quantum-Resistant VPN Infrastructure**:  
   - Lattice-based cryptography and NTRU algorithms secure traffic between nested VMs, IoT devices, and external systems

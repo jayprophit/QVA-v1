@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may the revealed form be auspicious and inspiring._
+
+May the revealed form be auspicious and inspiring.
+
+---
 
 _ॐ रूपं दर्शय स्वाहा।_
 

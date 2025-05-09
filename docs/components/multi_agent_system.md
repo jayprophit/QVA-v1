@@ -1,4 +1,10 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
+
+_Om, may all agents work together in harmony._
+
+May all agents work together in harmony.
+
+---
 
 _ॐ सह नाववतु।_
 

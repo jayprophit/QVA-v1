@@ -1,26 +1,32 @@
-## मंगलाचरणम् (Invocation)
+## Invocation (Mangala Shloka)
 
-_ॐ श्री गणेशाय नमः। धर्मो रक्षति रक्षितः।_
+_Om, may all ledgers be truthful and secure._
+
+May all ledgers be truthful and secure.
+
+---
+
+_Om, salutations to Lord Ganesha. Righteousness protects those who protect it._
 
 May the path of integrity and transparency guide our blockchain integration.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Anukramanika)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: ब्लॉकचेन की मूल बातें (Blockchain Concepts)](#adhyaya-2)
-3. [अध्याय ३: एकीकरण प्रक्रिया (Integration Steps)](#adhyaya-3)
-4. [अध्याय ४: अनुप्रयोग उदाहरण (Use Cases)](#adhyaya-4)
-5. [अध्याय ५: सुरक्षा और गोपनीयता (Security & Privacy)](#adhyaya-5)
-6. [अध्याय ६: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-6)
-7. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Overview](#chapter-1)
+2. [Chapter 2: Blockchain Concepts](#chapter-2)
+3. [Chapter 3: Integration Steps](#chapter-3)
+4. [Chapter 4: Use Cases](#chapter-4)
+5. [Chapter 5: Security & Privacy](#chapter-5)
+6. [Chapter 6: Summary & Results](#chapter-6)
+7. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Overview <a name="chapter-1"></a>
 
-**Shloka:**
+**Principle:**
 Blockchain technology enables trustless, decentralized, and immutable record-keeping.
 
 **Commentary:**
@@ -30,9 +36,9 @@ This document provides a concise, modular overview of integrating blockchain pri
 
 ---
 
-## अध्याय २: ब्लॉकचेन की मूल बातें (Blockchain Concepts) <a name="adhyaya-2"></a>
+## Chapter 2: Blockchain Concepts <a name="chapter-2"></a>
 
-**Shloka:**
+**Principle:**
 A blockchain is a distributed ledger maintained by consensus across a network of nodes.
 
 **Commentary:**

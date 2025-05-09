@@ -146,6 +146,11 @@ The QVA system implements a comprehensive, defense-in-depth security architectur
 
 ## Monitoring and Response
 
+### Invocation (Mangala Shloka)
+_Om, may security be perfected in all layers._
+
+May security be perfected in all layers.
+
 ### Security Information and Event Management (SIEM)
 - **Log Collection**: Comprehensive gathering of security-relevant information
 - **Correlation Rules**: Pattern recognition across diverse data sources

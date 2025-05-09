@@ -1,4 +1,10 @@
-## मंगलाचरणम् (Invocation)
+## Invocation (Mangala Shloka)
+
+_Om, may all disciplines unite for the greater good._
+
+May all disciplines unite for the greater good.
+
+---
 
 _ॐ एकं सत् विप्राः बहुधा वदन्ति।_
 
