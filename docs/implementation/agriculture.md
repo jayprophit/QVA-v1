@@ -30,3 +30,16 @@ class PlantStressDetector:
 - [Universal Communication Overview](universal_communication.md)
 - [Conservation Module](conservation.md)
 - [Medicine Module](medicine.md)
+
+---
+
+## Related Modules
+- [Bee Communication](bee_communication.md)
+- [Dolphin Communication](dolphin_communication.md)
+- [African Savannah](african_savannah.md)
+- [Amazon Rainforest](amazon_rainforest.md)
+- [Bioacoustics Technology](bioacoustics.md)
+- [Infrared Imaging](infrared_imaging.md)
+- [Drone Integration](drone_integration.md)
+- [Health Record Integration](health_record_integration.md)
+- [Conservation Database Integration](conservation_database_integration.md)

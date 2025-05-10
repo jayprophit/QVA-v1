@@ -22,3 +22,13 @@ def analyze_sound(audio_data):
 - [Bee Communication](bee_communication.md)
 - [African Savannah Module](african_savannah.md)
 - [Drone Integration](drone_integration.md)
+
+---
+
+## Related Modules
+- [Dolphin Communication](dolphin_communication.md)
+- [Amazon Rainforest](amazon_rainforest.md)
+- [Infrared Imaging](infrared_imaging.md)
+- [Drone Integration](drone_integration.md)
+- [Health Record Integration](health_record_integration.md)
+- [Conservation Database Integration](conservation_database_integration.md)
