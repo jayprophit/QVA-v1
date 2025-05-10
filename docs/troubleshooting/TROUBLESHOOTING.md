@@ -1,4 +1,4 @@
-# QVA System# मंगलाचरणम् (Invocation)
+# QVA System# Invocation (Mangala Shloka)
 
 _ॐ समाधानं कुरु।_
 
@@ -6,18 +6,18 @@ May all obstacles be resolved with wisdom and clarity.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: सामान्य समस्याएँ (Common Issues)](#adhyaya-2)
-3. [अध्याय ३: निदान (Diagnostics)](#adhyaya-3)
-4. [अध्याय ४: समाधान (Solutions)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Introduction (Overview)](#chapter-1)
+2. [Chapter 2: Common Issues (General Problems)](#chapter-2)
+3. [Chapter 3: Diagnostics (Troubleshooting Process)](#chapter-3)
+4. [Chapter 4: Solutions (Resolution Process)](#chapter-4)
+5. [Chapter 5: Summary & Results (Conclusion)](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Introduction (Overview) <a name="chapter-1"></a>
 
 **Shloka:**
 Troubleshooting transforms obstacles into opportunities for improvement.
@@ -27,7 +27,7 @@ This section introduces the philosophy and scope of troubleshooting within QVA.
 
 This document provides solutions to common issues encountered when working with the Quantum Virtual Assistant (QVA) system.
 
-## अध्याय २: सामान्य समस्याएँ (Common Issues) <a name="adhyaya-2"></a>
+## अध्याय २: सामान्य समस्याएँ (Common Issues) <a name="chapter-2"></a>
 
 ### सिस्टम आवश्यकताएँ पूरी नहीं होना (System Requirements Not Met)
 1. [Installation Issues](#installation-issues)

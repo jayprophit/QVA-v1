@@ -1,4 +1,4 @@
-# QVA# मंगलाचरणम् (Invocation)
+# QVA# Invocation (Mangala Shloka)
 
 _ॐ स्थापत्यं रचय।_
 
@@ -6,18 +6,18 @@ May the architecture be strong, harmonious, and enduring.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Anukramanika)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: स्थापत्य अवधारणाएँ (Architecture Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: अनुप्रयोग (Applications)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Overview](#chapter-1)
+2. [Chapter 2: Architecture Concepts](#chapter-2)
+3. [Chapter 3: Implementation](#chapter-3)
+4. [Chapter 4: Applications](#chapter-4)
+5. [Chapter 5: Summary & Results](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Overview <a name="chapter-1"></a>
 
 **Shloka:**
 System architecture diagrams reveal the underlying structure of intelligence.
@@ -31,7 +31,7 @@ This document describes the comprehensive system architecture of the Quantum Vir
 
 ---
 
-## अध्याय २: स्थापत्य अवधारणाएँ (Architecture Concepts) <a name="adhyaya-2"></a>
+## अध्याय २: स्थापत्य अवधारणाएँ (Architecture Concepts) <a name="chapter-2"></a>
 
 **Shloka:**
 Layers of abstraction reveal the harmony of the system.

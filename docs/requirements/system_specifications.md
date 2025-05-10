@@ -1,4 +1,4 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
 
 _ॐ निर्दिष्टं स्थापय।_
 
@@ -6,17 +6,17 @@ May all specifications be precise and complete.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: विनिर्देश अवधारणाएँ (Specification Concepts)](#adhyaya-2)
-3. [अध्याय ३: आवश्यकताएँ (Requirements)](#adhyaya-3)
-4. [अध्याय ४: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-4)
-5. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Introduction](#chapter-1)
+2. [Chapter 2: Specification Concepts](#chapter-2)
+3. [Chapter 3: Requirements](#chapter-3)
+4. [Chapter 4: Summary & Results](#chapter-4)
+5. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Introduction <a name="chapter-1"></a>
 
 **Shloka:**
 System specifications define the foundation for reliable implementation.

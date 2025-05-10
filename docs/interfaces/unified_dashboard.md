@@ -1,4 +1,4 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
 
 _ॐ एकत्वं दर्शय।_
 
@@ -6,18 +6,18 @@ May unity and clarity prevail in all interfaces.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: डैशबोर्ड अवधारणाएँ (Dashboard Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: अनुप्रयोग (Applications)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Introduction](#chapter-1)
+2. [Chapter 2: Dashboard Concepts](#chapter-2)
+3. [Chapter 3: Implementation](#chapter-3)
+4. [Chapter 4: Applications](#chapter-4)
+5. [Chapter 5: Summary & Results](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Introduction <a name="chapter-1"></a>
 
 **Shloka:**
 A unified dashboard brings together diverse insights into a single, clear view.

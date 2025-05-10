@@ -1,4 +1,4 @@
-# QVA System# मंगलाचरणम् (Invocation)
+# QVA System# Invocation (Mangala Shloka)
 
 _ॐ परीक्षणं कुरु।_
 
@@ -6,17 +6,17 @@ May all tests be thorough and enlightening.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: परीक्षण अवधारणाएँ (Testing Concepts)](#adhyaya-2)
-3. [अध्याय ३: रणनीति (Strategy)](#adhyaya-3)
-4. [अध्याय ४: परिणाम एवं फलश्रुति (Results & Summary)](#adhyaya-4)
-5. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Overview](#chapter-1)
+2. [Chapter 2: Testing Concepts](#chapter-2)
+3. [Chapter 3: Test Strategy](#chapter-3)
+4. [Chapter 4: Results & Summary](#chapter-4)
+5. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Overview <a name="chapter-1"></a>
 
 **Shloka:**
 A sound testing strategy ensures system reliability and trust.
@@ -30,7 +30,7 @@ This document outlines the comprehensive testing approach for the Quantum Virtua
 
 ---
 
-## अध्याय २: परीक्षण अवधारणाएँ (Testing Concepts) <a name="adhyaya-2"></a>
+## अध्याय २: परीक्षण अवधारणाएँ (Testing Concepts) <a name="chapter-2"></a>
 
 **Shloka:**
 Testing principles guide the verification of system integrity.

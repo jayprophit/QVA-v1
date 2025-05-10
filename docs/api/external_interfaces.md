@@ -1,25 +1,26 @@
-# QVA# मंगलाचरणम् (Invocation)
+# QVA
+# Invocation (Mangala Shloka)
 
-_ॐ संप्रेषय स्वाहा।_
+_Om, may all transmissions be auspicious and successful._
 
 May all connections be auspicious and fruitful.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Anukramanika)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: एपीआई अवधारणाएँ (API Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: उपयोग के मामले (Use Cases)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Overview](#chapter-1)
+2. [Chapter 2: API Concepts](#chapter-2)
+3. [Chapter 3: Implementation](#chapter-3)
+4. [Chapter 4: Use Cases](#chapter-4)
+5. [Chapter 5: Summary & Results](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Overview <a name="chapter-1"></a>
 
-**Shloka:**
+**Verse:**
 External interfaces enable seamless communication between systems and platforms.
 
 **Commentary:**

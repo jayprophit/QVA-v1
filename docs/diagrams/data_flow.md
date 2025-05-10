@@ -1,4 +1,4 @@
-# QVA# मंगलाचरणम् (Invocation)
+# QVA# Invocation (Mangala Shloka)
 
 _ॐ प्रवाहं दर्शय।_
 
@@ -6,18 +6,18 @@ May the flow of data be clear and unimpeded.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: डेटा फ्लो अवधारणाएँ (Data Flow Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: अनुप्रयोग (Applications)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Introduction (Overview)](#chapter-1)
+2. [Chapter 2: Data Flow Concepts (Data Flow Concepts)](#chapter-2)
+3. [Chapter 3: Implementation (Implementation)](#chapter-3)
+4. [Chapter 4: Applications (Applications)](#chapter-4)
+5. [Chapter 5: Summary & Results (Summary & Results)](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Introduction (Overview) <a name="chapter-1"></a>
 
 **Shloka:**
 Data flow diagrams illuminate the pathways of information.
@@ -31,7 +31,7 @@ This document visualizes how data flows through the Quantum Virtual Assistant (Q
 
 ---
 
-## अध्याय २: डेटा फ्लो अवधारणाएँ (Data Flow Concepts) <a name="adhyaya-2"></a>
+## अध्याय २: डेटा फ्लो अवधारणाएँ (Data Flow Concepts) <a name="chapter-2"></a>
 
 **Shloka:**
 Data flows through the system like a river, ever-changing yet constant.

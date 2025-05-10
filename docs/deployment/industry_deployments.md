@@ -4,7 +4,7 @@ This document provides detailed examples of how the QVA system can be deployed i
 
 ## Healthcare Deployments
 
-### Hospital Information System Integration
+### System Integration and Invocation
 
 **Deployment Architecture:**
 ```
@@ -15,8 +15,8 @@ This document provides detailed examples of how the QVA system can be deployed i
            │                                                    │
            ▼                                                    ▼
 ┌─────────────────────┐                              ┌────────────────────┐
-│ Clinical Decision   │◀───────────────────────────▶│ Patient Data       │
-│ Support Module      │                              │ Security Gateway   │
+│ Clinical Decision   │◀───────────────────────────▶│ Patient Data Security │
+│ Support Module      │                              │ Gateway             │
 └─────────────────────┘                              └────────────────────┘
 ```
 

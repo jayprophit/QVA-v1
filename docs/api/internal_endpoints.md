@@ -1,23 +1,23 @@
-# QVA# मंगलाचरणम् (Invocation)
+# QVA# Invocation (Mangala Shloka)
 
-_ॐ अन्तर्यामि स्वाहा।_
+_Om, may all endpoints be revealed and harmonious._
 
 May the inner workings be harmonious and efficient.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Anukramanika)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: एपीआई अवधारणाएँ (Endpoint Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: उपयोग के मामले (Use Cases)](#adhyaya-4)
-5. [अध्याय ५: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-5)
-6. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Overview](#chapter-1)
+2. [Chapter 2: Endpoint Concepts](#chapter-2)
+3. [Chapter 3: Implementation](#chapter-3)
+4. [Chapter 4: Use Cases](#chapter-4)
+5. [Chapter 5: Summary & Results](#chapter-5)
+6. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Overview <a name="chapter-1"></a>
 
 **Shloka:**
 Internal endpoints orchestrate the flow of information within the system.
@@ -31,7 +31,7 @@ This document details the internal API endpoints used for communication between 
 
 ---
 
-## अध्याय २: एपीआई अवधारणाएँ (Endpoint Concepts) <a name="adhyaya-2"></a>
+## Chapter 2: Endpoint Concepts <a name="chapter-2"></a>
 
 **Shloka:**
 API endpoints are the building blocks of system communication.

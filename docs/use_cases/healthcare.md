@@ -1,4 +1,4 @@
-# मंगलाचरणम् (Invocation)
+# Invocation (Mangala Shloka)
 
 _ॐ आरोग्यं कुरु।_
 
@@ -6,17 +6,17 @@ May all beings be healthy and protected.
 
 ---
 
-## अनुक्रमणिका (Index)
+## Index (Table of Contents)
 
-1. [अध्याय १: परिचय (Overview)](#adhyaya-1)
-2. [अध्याय २: स्वास्थ्य उपयोग अवधारणाएँ (Healthcare Use Case Concepts)](#adhyaya-2)
-3. [अध्याय ३: कार्यान्वयन (Implementation)](#adhyaya-3)
-4. [अध्याय ४: निष्कर्ष एवं फलश्रुति (Summary & Results)](#adhyaya-4)
-5. [शांति मंत्र (Closing Invocation)](#shanti)
+1. [Chapter 1: Introduction](#chapter-1)
+2. [Chapter 2: Healthcare Use Case Concepts](#chapter-2)
+3. [Chapter 3: Implementation](#chapter-3)
+4. [Chapter 4: Summary & Results](#chapter-4)
+5. [Closing Invocation (Peace Mantra)](#peace-mantra)
 
 ---
 
-## अध्याय १: परिचय (Overview) <a name="adhyaya-1"></a>
+## Chapter 1: Introduction <a name="chapter-1"></a>
 
 **Shloka:**
 Healthcare use cases illustrate the life-saving potential of QVA in medicine.

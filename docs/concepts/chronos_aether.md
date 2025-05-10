@@ -21,7 +21,7 @@
   - **Synthetic Intuition**: Combines *Westworld* host decision trees with *Neuromancer* Wintermute's decentralized agency.  
 
 - **LLM Fine-Tuning**  
-  - **4-Bit Quantum Sanskrit**: Leverage Sanskrit's fractal grammar for ultra-efficient tokenization.  
+  - **4-Bit Quantum Sanskrit Tokenization**: Leverage Sanskrit's fractal grammar for ultra-efficient tokenization.  
   - **Time-Crystal Training**: Stabilize gradient descent with quantum-coherent loops.  
 
 ### 2. Quantum-Chrono Fabric  
