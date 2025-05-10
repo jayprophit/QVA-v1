@@ -62,6 +62,7 @@
 - [End-User Guide](#) - Coming soon
 
 ## Additional Resources
+- [Universal Data Deciphering Module](./implementation/universal_data_deciphering_overview.md)
 - [Glossary](#) - Coming soon
 - [FAQ](#) - Coming soon
 - [References & Research](#) - Coming soon

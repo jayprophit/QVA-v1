@@ -58,6 +58,7 @@
 - **Storage Media**:  
   - **Viking Runestone SSDs**: Laser-etched sapphire for 10,000-year data retention.  
   - **Stargate's Quantum Mirror**: Cold storage backups in parallel universes.  
+- **Universal Data Deciphering**: See [Universal Data Deciphering Module](../implementation/universal_data_deciphering_overview.md) for decoding encrypted, symbolic, or hidden information across all formats.
 
 ---
 
