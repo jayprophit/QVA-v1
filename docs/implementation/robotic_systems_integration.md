@@ -17,6 +17,8 @@ The QVA Robotic Integration Module (RIM) consists of four primary interconnected
 └────────────────────────────────────────────────┘
 ```
 
+> **See also:** [Universal Communication Overview](universal_communication.md), [Agriculture](agriculture.md), [Medicine](medicine.md), [Conservation](conservation.md) — for advanced modules on cross-species, environmental, and bio-synthetic communication in robotics.
+
 ## 2. Perception Module Implementation
 
 ### Multi-Spectrum Visual Sensing
@@ -44,6 +46,8 @@ class ColorSpectrumVision:
 ```
 
 ### Environmental Sensing
+
+> **See also:** [Animal and Environmental Protection Protocols](animal_environmental_protection.md) for advanced environmental monitoring, pollution detection, and sustainability integration.
 
 - **Implementation**: Array of sensors for temperature, chemical composition, and spatial awareness
 - **Key Components**:
@@ -565,6 +569,8 @@ This section outlines further enhancements and a structured implementation plan 
 ### 11.11 Implementation Plan Overview
 - **Architecture**: Modular system with Perception, Processing, Actuation, Communication, and Energy modules.
 - **Hardware**: Multi-spectral cameras, LIDAR, environmental and haptic sensors, advanced actuators, embedded processing units (e.g., Jetson Nano), and renewable energy sources.
+
+> **Explore:** [Animal and Environmental Protection Protocols](animal_environmental_protection.md) for robotics-driven ecosystem restoration, animal welfare AI, and climate solutions.
 - **Software**: Ubuntu OS, OpenCV/TensorFlow for vision, SLAM for mapping, React Native/Flask for UI, and secure communication protocols.
 - **Interaction**: NLP (Hugging Face), TTS (gTTS), gesture recognition (OpenPose), and user profile management.
 - **Security**: HTTPS, JWT authentication, anomaly detection.
