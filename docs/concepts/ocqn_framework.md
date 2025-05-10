@@ -17,7 +17,7 @@
 ### 1. Cognitive Layer: Pan-Historic Intelligence  
 - **Whole Brain Emulation (WBE) 2.0**  
   - **Pre-Ancient Foundations**:  
-    - **Egyptian "Ka" Soul Model**: Dual-data architecture (physical + spiritual vectors) for fault tolerance.  
+    - **Egyptian "Ka" Soul Model**: See [Egyptian Esoteric Integration](../implementation/egyptian_esoteric_integration.md) for full principles and modular implementation.
     - **Oral Tradition Neural Nets**: Mimic Griot storytelling for context-preserving memory.  
   - **Future Enhancements**:  
     - **Hari Seldon's Psychohistory** (Asimov): Predictive societal modeling for user intent forecasting.  
@@ -68,7 +68,7 @@
 
 ### User Interface  
 - **Holographic Avatar**:  
-  - **Pre-Ancient Aesthetics**: Egyptian god *Thoth* (wisdom) + Hindu *Saraswati* (knowledge) visual presets.  
+  - **Pre-Ancient Aesthetics**: See [Egyptian Esoteric Integration](../implementation/egyptian_esoteric_integration.md) for Thoth's wisdom and visual inspiration.
   - **Anime Adaptability**: *Evangelion* A.T. Field-style privacy shields.  
 - **Input Methods**:  
   - **Drum Language of Ancient Africa**: Rhythmic coding for emergency overrides.  

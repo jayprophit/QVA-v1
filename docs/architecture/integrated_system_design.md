@@ -225,5 +225,8 @@ Quantum Nexus adopts a modular approach to AI/ML integration. Each core capabili
 ### Self-Evolving Agents
 - LLM fine-tuning via on-device federated learning + quantum feedback.
 
+### Quantum Nexus Self-* Features
+- Next-generation enhancements for self-awareness, self-healing, self-replication, and power-saving are being integrated into the modular architecture. See [System Enhancement Strategies](../implementation/system_enhancement_strategies.md#quantum-nexus-streamlined-self-improving-and-self-healing-enhancements) for details.
+
 ## Summary
 This design merges cutting-edge AI, quantum computing, and decentralized systems into a cohesive framework. By leveraging MCP as the "nervous system" and integrating RAG/KAG/CAG with quantum processes, the architecture achieves human-like adaptability while maintaining computational efficiency and security.
