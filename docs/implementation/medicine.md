@@ -1,6 +1,6 @@
 # Healing Web & Bio-Synthetic/Natural Medicine Communication
 
-This module describes QVA's integration of natural healing, bio-synthetic feedback, and plant-based medicine for advanced health solutions.
+This module describes QVA's integration of natural healing, bio-synthetic feedback, and plant-based medicine for advanced health solutions. See also the [Rife Healing Frequencies System](technology/rife_healing_frequencies.md) for electromagnetic and audio-based frequency therapy.
 
 ## Core Features
 - **Healing Web**: Combine nanotech, bioelectric stimulation, and gene editing for cellular repair and regeneration.
@@ -27,6 +27,7 @@ class HealingWebSystem:
 - **Wearables**: Use patient biofeedback for adaptive therapy.
 
 ## See Also
+- [Rife Healing Frequencies System](technology/rife_healing_frequencies.md)
 - [Universal Communication Overview](universal_communication.md)
 - [Agriculture Module](agriculture.md)
 - [Conservation Module](conservation.md)
